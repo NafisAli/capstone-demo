@@ -204,7 +204,8 @@ d3.json("./data/data.json").then(function(data) {
   // var mm = today.getMonth()+1; //January is 0!   //<<===== no need
   // var yyyy = today.getFullYear();  //<<===== no need
 
-  const month = today.toLocaleString("default", { month: "long" });
+  //const month = today.toLocaleString("default", { month: "long" });
+  const month = "October";
 
   svg
     .append("line")
