@@ -2,6 +2,9 @@
 ## CS25-2 Capstone Project, University of Sydney, 2019
 ### Contributors: Nafis Ali, S M Nabil Fahajan, Falguni Sanyal
 ***
+### Description
+> This is the demo of the work done as part of our final year capstone project. We have worked with Switch Maven and played a consultancy role during this project. Our responsiblitiy was to understand their business values and create data visualisation concepts that helps the users of the system.
+***
 ### Usage Guide
 Use the navigation bar at the top to change into other visualisations
 
