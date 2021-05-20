@@ -4,6 +4,8 @@
 ***
 ### Description
 > This is the demo of the work done as part of our final year capstone project. We have worked with Switch Maven and played a consultancy role during this project. Our responsiblitiy was to understand their business values and create data visualisation concepts that helps the users of the system.
+
+> https://nafisali.github.io/capstone-demo/
 ***
 ### Usage Guide
 Use the navigation bar at the top to change into other visualisations
